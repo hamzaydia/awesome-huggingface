@@ -33,6 +33,7 @@ This is a list of some wonderful open-source projects & applications integrated 
 * [Obsei](https://github.com/obsei/obsei) - A low-code AI workflow automation tool and performs various NLP tasks in the workflow pipeline. 
 * [Trapper](https://github.com/obss/trapper) (from OBSS) - State-of-the-art NLP through transformer models in a modular design and consistent APIs.
 * [Flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art NLP.
+* [verifyfetch](https://github.com/hamzaydia/verifyfetch) - Resumable, integrity-verified model downloads for Transformers.js. Drop-in verification with constant memory and fail-fast corruption detection.
 
 ## 🥡 Text Representation
 *Converting a sentence to a vector.*
